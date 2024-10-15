@@ -1,0 +1,34 @@
+      ГАРЯЧІ КЛАВІШІ
+comand slesh - додати коментар
+comand S - зберігає проект
+
+                                           HTML СЛОВНИК
+Елемент <section> являє собою універсальний розділ документа. Групує тематичне вміст і зазвичай містить заголовок.
+Як вміст може виступати зміст, розділи наукових публікацій, програма заходу.
+Домашня сторінка сайту також може бути поділена на секції - блок вступної інформації, новини і контакти.
+
+<span> The span element doesnt mean anything on its own, but can be useful when used together with the global attributes, e.g. class, lang, or dir. It represents its children
+
+    ----------                                            СПИСКИ                                            ----------
+<ul> - визначає unordered list.
+<ol> - визначає ordered list.
+<li> - element is used to represent an item in a list. 
+It must be contained in a parent element: an ordered list ( <ol> ), an unordered list ( <ul> ), or a menu ( <menu> )
+<dl> - визначає definition list, список 'термін - визначення'
+<dl>
+  <dt>Coffee</dt>
+  <dd>Black hot drink</dd>
+  <dt>Milk</dt>
+  <dd>White cold drink</dd>
+</dl>
+The <dt> HTML element specifies a term in a description or definition list, and as such must be used inside a <dl> element
+<dd>: The Description Details element.
+The <dd> HTML element provides the description, definition, or value for the preceding term ( <dt> ) in a description list ( <dl> )
+
+                            ІНТЕРАКТТИВНІ ЕЛЕМЕНТИ
+інтерактивні елементи - елементи з якими користувачі можуть взаємодіяти
+<a> - елемент створює посилання на інші веб-сторінки, файли,
+розташування на тій же сторінці, чи будь-які інші URL-адресиґ
+
+<button> - елемент створює кнопку. Після кліку користувачем вона виконує
+дію, наприклад надсилає форму чи відкриває модальне вікно
