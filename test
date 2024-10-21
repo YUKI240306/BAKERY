@@ -32,3 +32,7 @@ The <dd> HTML element provides the description, definition, or value for the pre
 
 <button> - елемент створює кнопку. Після кліку користувачем вона виконує
 дію, наприклад надсилає форму чи відкриває модальне вікно
+
+The <address> tag defines the contact information for the author/owner of a document or an article.
+The contact information can be an email address,
+URL, physical address, phone number, social media handle, etc.
