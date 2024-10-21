@@ -36,3 +36,7 @@ The <dd> HTML element provides the description, definition, or value for the pre
 The <address> tag defines the contact information for the author/owner of a document or an article.
 The contact information can be an email address,
 URL, physical address, phone number, social media handle, etc.
+🤨
+У кнопок <button> має завжди бути атребут type
+
+Фото з фігми експортуємо у форматі
